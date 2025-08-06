@@ -1,0 +1,10 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+rpc_endpoints = { sepolia = "https://zksync-sepolia.infura.io/v3/ded0a110b3544457b925b35596b95f09", arb-sepolia = "https://arb-sepolia.g.alchemy.com/public" }
+
+remapping = [
+    "@openzeppelin/=lib/openzeppelin-contracts/"
+]
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
