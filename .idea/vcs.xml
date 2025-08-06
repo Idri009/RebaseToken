@@ -17,6 +17,12 @@
     <mapping directory="$PROJECT_DIR$/../foundry-nft/lib/forge-std" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../foundry-nft/lib/foundry-devops" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../foundry-nft/lib/foundry-devops/lib/forge-std" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/ccip" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/chainlink-local" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/chainlink-local/lib/chainlink-ccip" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/chainlink-local/lib/chainlink-evm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/chainlink-local/lib/forge-std" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lib/forge-std" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lib/openzeppelin-contracts" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lib/openzeppelin-contracts/lib/erc4626-tests" vcs="Git" />
